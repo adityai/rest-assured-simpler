@@ -1,4 +1,4 @@
-# rest-assured-docker
+# rest-assured-simpler
 [![Build Status](http://circleci-badges-max.herokuapp.com/img/adityai/rest-assured-simpler?token=c521012b8c872719c418db3077b7763a3f9cc836)](https://circleci.com/gh/adityai/rest-assured-simpler)
 
 Simple rest assured test suite that works for testing status code and one json value. Optionally runs on a Docker container.
